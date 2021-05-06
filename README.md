@@ -7,6 +7,7 @@ python-serves-php has some features:
 * Handles each request in saparate thread using `ThreadingMixIn`
 * GET requests
 * POST requests
+* Supports directory index files: `index.php index.html`
 * Provides `http.ini` file to configure the server
 * supports HTTPS
 * Custom error pages
