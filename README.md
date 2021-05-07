@@ -2,7 +2,7 @@
 A simple web server for PHP. python-serves-php just wraps around python's built-in `HTTPServer`.
 It uses custom URL processing schemes, and is particularly designed to execute PHP scripts through CGI.
 
-### features:
+### Features:
 
 - [x] Handles each request in a saparate thread using `ThreadingMixIn`
 - [x] GET requests
